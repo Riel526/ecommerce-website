@@ -1,4 +1,4 @@
-# ecommerce-website
+# frontend
 
 ## Project setup
 ```
